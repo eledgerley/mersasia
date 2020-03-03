@@ -1,0 +1,78 @@
+{
+  "annotations": {
+    "G128_gp01": {
+      "end": 13451,
+      "start": 13409,
+      "strand": 1
+    },
+    "nuc": {
+      "end": 30119,
+      "start": 0,
+      "strand": 1
+    }
+  },
+  "author_info": {},
+  "color_options": {
+    "country": {
+      "color_map": [],
+      "key": "country",
+      "legendTitle": "Country",
+      "menuItem": "country",
+      "type": "discrete"
+    },
+    "num_date": {
+      "key": "num_date",
+      "legendTitle": "Sampling date",
+      "menuItem": "date",
+      "type": "continuous"
+    },
+    "state": {
+      "color_map": [],
+      "key": "state",
+      "legendTitle": "State",
+      "menuItem": "state",
+      "type": "discrete"
+    }
+  },
+  "defaults": {
+    "colorBy": "state",
+    "geoResolution": "state",
+    "mapTriplicate": false
+  },
+  "filters": [
+    "country",
+    "state"
+  ],
+  "geo": {
+    "country": {
+      "China": {
+        "latitude": 35.000074,
+        "longitude": 104.999927
+      },
+      "Jordan": {
+        "latitude": 31.1667049,
+        "longitude": 36.941628
+      },
+      "Oman": {
+        "latitude": 21.0000287,
+        "longitude": 57.0036901
+      },
+      "Qatar": {
+        "latitude": 25.27932,
+        "longitude": 51.52245
+      }
+    }
+  },
+  "maintainer": [
+    "Elizabeth",
+    "reference"
+  ],
+  "panels": [
+    "tree",
+    "map",
+    "entropy"
+  ],
+  "title": "MERS",
+  "updated": "03 Mar 2020",
+  "virus_count": 47
+}

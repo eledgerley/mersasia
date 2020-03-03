@@ -1,0 +1,2415 @@
+{
+  "aa_muts": {},
+  "attr": {
+    "clock_length": 0.001,
+    "country": "Jordan",
+    "country_confidence": {
+      "Jordan": 0.4968173123379181,
+      "Saudi-Arabia": 0.4780606865416298,
+      "South-Korea": 0.005718352408061424,
+      "United-Arab-Emirates": 0.007191741777004715
+    },
+    "country_entropy": 0.8324280443956861,
+    "date": "2010-06-27",
+    "div": 0,
+    "num_date": 2010.4876028137182,
+    "num_date_confidence": [
+      2008.7181402148353,
+      2011.504319573352
+    ]
+  },
+  "branch_length": 0.001,
+  "children": [
+    {
+      "aa_muts": {},
+      "attr": {
+        "accession": "KC776174",
+        "clock_length": 0.0005402636572470797,
+        "country": "Jordan",
+        "country_confidence": {
+          "Jordan": 1.0
+        },
+        "country_entropy": -1.000088900581841e-12,
+        "date": "2012-04-02",
+        "div": 0.0005771972577766997,
+        "num_date": 2012.2518822724162,
+        "num_date_confidence": [
+          2012.2518822724162,
+          2012.3231376037947
+        ],
+        "raw_date": "2012-04-XX"
+      },
+      "branch_length": 0.00054026,
+      "clade": 0,
+      "muts": [],
+      "strain": "KC776174",
+      "yvalue": 47
+    },
+    {
+      "aa_muts": {},
+      "attr": {
+        "clock_length": 0.0005707915096367197,
+        "country": "Saudi-Arabia",
+        "country_confidence": {
+          "Jordan": 0.009129335519139954,
+          "Saudi-Arabia": 0.9895666077922934
+        },
+        "country_entropy": 0.06359675640455385,
+        "date": "2012-05-08",
+        "div": 0.0005432125519711509,
+        "num_date": 2012.3515737141165,
+        "num_date_confidence": [
+          2011.5354985546471,
+          2012.780098014298
+        ]
+      },
+      "branch_length": 0.00057079,
+      "children": [
+        {
+          "aa_muts": {},
+          "attr": {
+            "clock_length": 0.00010163645831161609,
+            "country": "Saudi-Arabia",
+            "country_confidence": {
+              "Saudi-Arabia": 0.9988781221936837,
+              "United-Arab-Emirates": 0.0010193782944778972
+            },
+            "country_entropy": 0.009155167862084729,
+            "date": "2012-09-06",
+            "div": 0.0005771486548828037,
+            "num_date": 2012.683476690096,
+            "num_date_confidence": [
+              2011.9516677105833,
+              2012.8323066392882
+            ]
+          },
+          "branch_length": 0.00010164,
+          "children": [
+            {
+              "aa_muts": {},
+              "attr": {
+                "accession": "KF600652",
+                "clock_length": 4.557521330419761e-05,
+                "country": "Saudi-Arabia",
+                "country_confidence": {
+                  "Saudi-Arabia": 0.9999999999999999
+                },
+                "country_entropy": -9.99866855976916e-13,
+                "date": "2012-10-31",
+                "div": 0.0006450219072100298,
+                "num_date": 2012.8323066392882,
+                "num_date_confidence": [
+                  2012.8323066392882,
+                  2012.8323066392882
+                ],
+                "raw_date": "2012-10-30"
+              },
+              "branch_length": 4.558e-05,
+              "clade": 1,
+              "muts": [
+                "T23056C",
+                "C27917T"
+              ],
+              "strain": "KF600652",
+              "yvalue": 46
+            },
+            {
+              "aa_muts": {},
+              "attr": {
+                "clock_length": 0.0001495080347007926,
+                "country": "United-Arab-Emirates",
+                "country_confidence": {
+                  "Oman": 0.008080938141754672,
+                  "Saudi-Arabia": 0.04356280215970182,
+                  "United-Arab-Emirates": 0.9475114871958953
+                },
+                "country_entropy": 0.2336642357639828,
+                "date": "2013-03-03",
+                "div": 0.0007129051444524233,
+                "num_date": 2013.171708595009,
+                "num_date_confidence": [
+                  2012.8262427410284,
+                  2013.6147922927676
+                ]
+              },
+              "branch_length": 0.00014951,
+              "children": [
+                {
+                  "aa_muts": {},
+                  "attr": {
+                    "clock_length": 8.901631686565083e-05,
+                    "country": "United-Arab-Emirates",
+                    "country_confidence": {
+                      "Oman": 0.03351168176873887,
+                      "Saudi-Arabia": 0.013529784686690052,
+                      "United-Arab-Emirates": 0.9520402138393469
+                    },
+                    "country_entropy": 0.22649628639874234,
+                    "date": "2013-06-17",
+                    "div": 0.000814719980974609,
+                    "num_date": 2013.4623993665025,
+                    "num_date_confidence": [
+                      2013.3771178385264,
+                      2013.7216235739827
+                    ]
+                  },
+                  "branch_length": 8.902e-05,
+                  "children": [
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "accession": "KP209312",
+                        "clock_length": 0.00012585017307302558,
+                        "country": "United-Arab-Emirates",
+                        "country_confidence": {
+                          "United-Arab-Emirates": 1.0
+                        },
+                        "country_entropy": -1.000088900581841e-12,
+                        "date": "2013-11-15",
+                        "div": 0.0009165388431744676,
+                        "num_date": 2013.8733744010951,
+                        "num_date_confidence": [
+                          2013.8733744010951,
+                          2013.8733744010951
+                        ],
+                        "raw_date": "2013-11-15"
+                      },
+                      "branch_length": 0.00012585,
+                      "clade": 2,
+                      "muts": [
+                        "C22394T",
+                        "A23685C",
+                        "G24518A"
+                      ],
+                      "strain": "KP209312",
+                      "yvalue": 45
+                    },
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "accession": "KT156561",
+                        "clock_length": 0.00016190111426284148,
+                        "country": "Oman",
+                        "country_confidence": {
+                          "Oman": 1.0
+                        },
+                        "country_entropy": -1.000088900581841e-12,
+                        "date": "2013-12-28",
+                        "div": 0.00112025040988594,
+                        "num_date": 2013.991101984942,
+                        "num_date_confidence": [
+                          2013.991101984942,
+                          2013.991101984942
+                        ],
+                        "raw_date": "2013-12-28"
+                      },
+                      "branch_length": 0.0001619,
+                      "clade": 3,
+                      "muts": [
+                        "G22130A",
+                        "G22995T",
+                        "C24928T",
+                        "G25179T",
+                        "G26161C",
+                        "G26437A",
+                        "C27351T",
+                        "G27864A",
+                        "C28632A"
+                      ],
+                      "strain": "KT156561",
+                      "yvalue": 44
+                    }
+                  ],
+                  "clade": 4,
+                  "muts": [
+                    "G23883A",
+                    "C24602T",
+                    "C25364T"
+                  ],
+                  "strain": "NODE_0000032",
+                  "yvalue": 44.5
+                },
+                {
+                  "aa_muts": {},
+                  "attr": {
+                    "clock_length": 0.00031405192081382306,
+                    "country": "United-Arab-Emirates",
+                    "country_confidence": {
+                      "United-Arab-Emirates": 0.9989156419158245
+                    },
+                    "country_entropy": 0.009082142413826013,
+                    "date": "2014-03-13",
+                    "div": 0.0009844635639421682,
+                    "num_date": 2014.1972733270136,
+                    "num_date_confidence": [
+                      2014.0621259297247,
+                      2014.2681175415503
+                    ]
+                  },
+                  "branch_length": 0.00031405,
+                  "children": [
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "accession": "KY581689",
+                        "clock_length": 2.3429688869193834e-05,
+                        "country": "United-Arab-Emirates",
+                        "country_confidence": {
+                          "United-Arab-Emirates": 1.0
+                        },
+                        "country_entropy": -1.000088900581841e-12,
+                        "date": "2014-04-10",
+                        "div": 0.0009844635639421893,
+                        "num_date": 2014.2737850787132,
+                        "num_date_confidence": [
+                          2014.2737850787132,
+                          2014.2737850787132
+                        ],
+                        "raw_date": "2014-04-10"
+                      },
+                      "branch_length": 2.343e-05,
+                      "clade": 5,
+                      "muts": [],
+                      "strain": "KY581689",
+                      "yvalue": 43
+                    },
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "clock_length": 2.3429688869193834e-05,
+                        "country": "United-Arab-Emirates",
+                        "country_confidence": {
+                          "United-Arab-Emirates": 0.9999592682062272
+                        },
+                        "country_entropy": 0.0004936090530559762,
+                        "date": "2014-04-10",
+                        "div": 0.0009844635639421893,
+                        "num_date": 2014.2737850787132,
+                        "num_date_confidence": [
+                          2014.1825590729727,
+                          2014.2737850787132
+                        ]
+                      },
+                      "branch_length": 2.343e-05,
+                      "children": [
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "accession": "KY581691",
+                            "clock_length": 3.353575924625908e-06,
+                            "country": "United-Arab-Emirates",
+                            "country_confidence": {
+                              "United-Arab-Emirates": 0.9999999999999999
+                            },
+                            "country_entropy": -9.99866855976916e-13,
+                            "date": "2014-04-14",
+                            "div": 0.0009844635639422103,
+                            "num_date": 2014.2847364818617,
+                            "num_date_confidence": [
+                              2014.2847364818617,
+                              2014.2847364818617
+                            ],
+                            "raw_date": "2014-04-14"
+                          },
+                          "branch_length": 3.35e-06,
+                          "clade": 6,
+                          "muts": [],
+                          "strain": "KY581691",
+                          "yvalue": 42
+                        },
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "accession": "KP209308",
+                            "clock_length": 0.0,
+                            "country": "United-Arab-Emirates",
+                            "country_confidence": {
+                              "United-Arab-Emirates": 0.9999999999999999
+                            },
+                            "country_entropy": -9.99866855976916e-13,
+                            "date": "2014-04-10",
+                            "div": 0.0009844635639422103,
+                            "num_date": 2014.2737850787132,
+                            "num_date_confidence": [
+                              2014.2737850787132,
+                              2014.2737850787132
+                            ],
+                            "raw_date": "2014-04-10"
+                          },
+                          "branch_length": 0.0,
+                          "clade": 7,
+                          "muts": [],
+                          "strain": "KP209308",
+                          "yvalue": 41
+                        }
+                      ],
+                      "clade": 8,
+                      "muts": [],
+                      "strain": "NODE_0000007",
+                      "yvalue": 41.5
+                    }
+                  ],
+                  "clade": 9,
+                  "muts": [
+                    "G21531T",
+                    "C22790T",
+                    "A23549G",
+                    "C24687T",
+                    "A27204T",
+                    "A27206C",
+                    "T27208A",
+                    "A27211C"
+                  ],
+                  "strain": "NODE_0000033",
+                  "yvalue": 42.25
+                }
+              ],
+              "clade": 10,
+              "muts": [
+                "C23690T",
+                "G25032T",
+                "T26880C",
+                "T28572G"
+              ],
+              "strain": "NODE_0000031",
+              "yvalue": 43.375
+            },
+            {
+              "aa_muts": {},
+              "attr": {
+                "clock_length": 0.00016580672426493416,
+                "country": "Saudi-Arabia",
+                "country_confidence": {
+                  "Saudi-Arabia": 0.9999999994352499
+                },
+                "country_entropy": 1.2985739909241615e-08,
+                "date": "2013-03-23",
+                "div": 0.0008486882034518636,
+                "num_date": 2013.2249334285063,
+                "num_date_confidence": [
+                  2013.1371662518898,
+                  2013.3250946347523
+                ]
+              },
+              "branch_length": 0.00016581,
+              "children": [
+                {
+                  "aa_muts": {},
+                  "attr": {
+                    "accession": "KJ156866",
+                    "clock_length": 3.3404186086446064e-05,
+                    "country": "Saudi-Arabia",
+                    "country_confidence": {
+                      "Saudi-Arabia": 1.0
+                    },
+                    "country_entropy": -1.000088900581841e-12,
+                    "date": "2013-05-02",
+                    "div": 0.0008826229136050628,
+                    "num_date": 2013.3340177960301,
+                    "num_date_confidence": [
+                      2013.3340177960301,
+                      2013.3340177960301
+                    ],
+                    "raw_date": "2013-05-02"
+                  },
+                  "branch_length": 3.34e-05,
+                  "clade": 11,
+                  "muts": [
+                    "C27993T"
+                  ],
+                  "strain": "KJ156866",
+                  "yvalue": 40
+                },
+                {
+                  "aa_muts": {},
+                  "attr": {
+                    "accession": "KF600634",
+                    "clock_length": 5.6879217558827855e-05,
+                    "country": "Saudi-Arabia",
+                    "country_confidence": {
+                      "Saudi-Arabia": 1.0
+                    },
+                    "country_entropy": -1.000088900581841e-12,
+                    "date": "2013-05-29",
+                    "div": 0.0009165596957083958,
+                    "num_date": 2013.4106776180697,
+                    "num_date_confidence": [
+                      2013.4106776180697,
+                      2013.4106776180697
+                    ],
+                    "raw_date": "2013-05-30"
+                  },
+                  "branch_length": 5.688e-05,
+                  "clade": 12,
+                  "muts": [
+                    "G24702T",
+                    "C26889T"
+                  ],
+                  "strain": "KF600634",
+                  "yvalue": 39
+                },
+                {
+                  "aa_muts": {},
+                  "attr": {
+                    "accession": "KF600644",
+                    "clock_length": 4.178812589804596e-05,
+                    "country": "Saudi-Arabia",
+                    "country_confidence": {
+                      "Saudi-Arabia": 1.0
+                    },
+                    "country_entropy": -1.000088900581841e-12,
+                    "date": "2013-05-12",
+                    "div": 0.0008826241361965256,
+                    "num_date": 2013.3613963039015,
+                    "num_date_confidence": [
+                      2013.3613963039015,
+                      2013.3613963039015
+                    ],
+                    "raw_date": "2013-05-12"
+                  },
+                  "branch_length": 4.179e-05,
+                  "clade": 13,
+                  "muts": [
+                    "C27634A"
+                  ],
+                  "strain": "KF600644",
+                  "yvalue": 38
+                },
+                {
+                  "aa_muts": {},
+                  "attr": {
+                    "clock_length": 5.101045969078434e-05,
+                    "country": "Saudi-Arabia",
+                    "country_confidence": {
+                      "Saudi-Arabia": 0.9999699842546909
+                    },
+                    "country_entropy": 0.0003900065788526466,
+                    "date": "2013-05-23",
+                    "div": 0.0008826234424091435,
+                    "num_date": 2013.39151266256,
+                    "num_date_confidence": [
+                      2013.3171939310832,
+                      2013.39151266256
+                    ]
+                  },
+                  "branch_length": 5.101e-05,
+                  "children": [
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "accession": "KF600632",
+                        "clock_length": 0.0,
+                        "country": "Saudi-Arabia",
+                        "country_confidence": {
+                          "Saudi-Arabia": 0.9999999999999999
+                        },
+                        "country_entropy": -9.99866855976916e-13,
+                        "date": "2013-05-23",
+                        "div": 0.0008826234424091646,
+                        "num_date": 2013.39151266256,
+                        "num_date_confidence": [
+                          2013.39151266256,
+                          2013.39151266256
+                        ],
+                        "raw_date": "2013-05-23"
+                      },
+                      "branch_length": 0.0,
+                      "clade": 14,
+                      "muts": [],
+                      "strain": "KF600632",
+                      "yvalue": 37
+                    },
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "clock_length": 1.728153531053815e-05,
+                        "country": "Saudi-Arabia",
+                        "country_confidence": {
+                          "Saudi-Arabia": 0.9999699842673596
+                        },
+                        "country_entropy": 0.0003900064329477545,
+                        "date": "2013-06-12",
+                        "div": 0.0008826234424091646,
+                        "num_date": 2013.4479470670478,
+                        "num_date_confidence": [
+                          2013.3997259695625,
+                          2013.4626967830254
+                        ]
+                      },
+                      "branch_length": 1.728e-05,
+                      "children": [
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "accession": "KJ156939",
+                            "clock_length": 5.355102180704726e-06,
+                            "country": "Saudi-Arabia",
+                            "country_confidence": {
+                              "Saudi-Arabia": 1.0
+                            },
+                            "country_entropy": -1.000088900581841e-12,
+                            "date": "2013-06-19",
+                            "div": 0.0008826234424091856,
+                            "num_date": 2013.4654346338125,
+                            "num_date_confidence": [
+                              2013.4654346338125,
+                              2013.4654346338125
+                            ],
+                            "raw_date": "2013-06-19"
+                          },
+                          "branch_length": 5.36e-06,
+                          "clade": 15,
+                          "muts": [],
+                          "strain": "KJ156939",
+                          "yvalue": 36
+                        },
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "accession": "KJ156872",
+                            "clock_length": 4.516708199565379e-06,
+                            "country": "Saudi-Arabia",
+                            "country_confidence": {
+                              "Saudi-Arabia": 1.0
+                            },
+                            "country_entropy": -1.000088900581841e-12,
+                            "date": "2013-06-18",
+                            "div": 0.0008826234424091856,
+                            "num_date": 2013.4626967830254,
+                            "num_date_confidence": [
+                              2013.4626967830254,
+                              2013.4626967830254
+                            ],
+                            "raw_date": "2013-06-18"
+                          },
+                          "branch_length": 4.52e-06,
+                          "clade": 16,
+                          "muts": [],
+                          "strain": "KJ156872",
+                          "yvalue": 35
+                        }
+                      ],
+                      "clade": 17,
+                      "muts": [],
+                      "strain": "NODE_0000010",
+                      "yvalue": 35.5
+                    }
+                  ],
+                  "clade": 18,
+                  "muts": [
+                    "G28941C"
+                  ],
+                  "strain": "NODE_0000038",
+                  "yvalue": 36.25
+                },
+                {
+                  "aa_muts": {},
+                  "attr": {
+                    "clock_length": 2.8108917374446152e-05,
+                    "country": "Saudi-Arabia",
+                    "country_confidence": {
+                      "Saudi-Arabia": 0.9999693635947927
+                    },
+                    "country_entropy": 0.00039738260288225795,
+                    "date": "2013-04-25",
+                    "div": 0.0008486882034518847,
+                    "num_date": 2013.3167256208274,
+                    "num_date_confidence": [
+                      2013.1920551842356,
+                      2013.3409841806003
+                    ]
+                  },
+                  "branch_length": 2.811e-05,
+                  "children": [
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "clock_length": 1.1164026580112816e-05,
+                        "country": "Saudi-Arabia",
+                        "country_confidence": {
+                          "Saudi-Arabia": 0.9999699716278482
+                        },
+                        "country_entropy": 0.0003901557927559106,
+                        "date": "2013-05-09",
+                        "div": 0.0008486882034519057,
+                        "num_date": 2013.35318275154,
+                        "num_date_confidence": [
+                          2013.278321738086,
+                          2013.35318275154
+                        ]
+                      },
+                      "branch_length": 1.116e-05,
+                      "children": [
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "accession": "KF600651",
+                            "clock_length": 1.1737515736225373e-05,
+                            "country": "Saudi-Arabia",
+                            "country_confidence": {
+                              "Saudi-Arabia": 1.0
+                            },
+                            "country_entropy": -1.000088900581841e-12,
+                            "date": "2013-05-23",
+                            "div": 0.0008486882034519267,
+                            "num_date": 2013.39151266256,
+                            "num_date_confidence": [
+                              2013.39151266256,
+                              2013.39151266256
+                            ],
+                            "raw_date": "2013-05-23"
+                          },
+                          "branch_length": 1.174e-05,
+                          "clade": 19,
+                          "muts": [],
+                          "strain": "KF600651",
+                          "yvalue": 34
+                        },
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "accession": "KF186567",
+                            "clock_length": 0.0,
+                            "country": "Saudi-Arabia",
+                            "country_confidence": {
+                              "Saudi-Arabia": 1.0
+                            },
+                            "country_entropy": -1.000088900581841e-12,
+                            "date": "2013-05-09",
+                            "div": 0.0008486882034519267,
+                            "num_date": 2013.35318275154,
+                            "num_date_confidence": [
+                              2013.35318275154,
+                              2013.35318275154
+                            ],
+                            "raw_date": "2013-05-09"
+                          },
+                          "branch_length": 0.0,
+                          "clade": 20,
+                          "muts": [],
+                          "strain": "KF186567",
+                          "yvalue": 33
+                        }
+                      ],
+                      "clade": 21,
+                      "muts": [],
+                      "strain": "NODE_0000017",
+                      "yvalue": 33.5
+                    },
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "clock_length": 8.179296316774588e-06,
+                        "country": "Saudi-Arabia",
+                        "country_confidence": {
+                          "Saudi-Arabia": 0.9999693636077462
+                        },
+                        "country_entropy": 0.00039738245400944977,
+                        "date": "2013-05-05",
+                        "div": 0.0008486882034519057,
+                        "num_date": 2013.3434358470006,
+                        "num_date_confidence": [
+                          2013.251426241147,
+                          2013.3477070499657
+                        ]
+                      },
+                      "branch_length": 8.18e-06,
+                      "children": [
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "accession": "KF600627",
+                            "clock_length": 1.3079423009905791e-06,
+                            "country": "Saudi-Arabia",
+                            "country_confidence": {
+                              "Saudi-Arabia": 1.0
+                            },
+                            "country_entropy": -1.000088900581841e-12,
+                            "date": "2013-05-06",
+                            "div": 0.0008486882034519267,
+                            "num_date": 2013.3477070499657,
+                            "num_date_confidence": [
+                              2013.3477070499657,
+                              2013.3477070499657
+                            ],
+                            "raw_date": "2013-05-07"
+                          },
+                          "branch_length": 1.31e-06,
+                          "clade": 22,
+                          "muts": [],
+                          "strain": "KF600627",
+                          "yvalue": 32
+                        },
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "clock_length": 4.661518225616487e-06,
+                            "country": "Saudi-Arabia",
+                            "country_confidence": {
+                              "Saudi-Arabia": 0.99996997162814
+                            },
+                            "country_entropy": 0.0003901557893990191,
+                            "date": "2013-05-10",
+                            "div": 0.0008486882034519267,
+                            "num_date": 2013.3586584531142,
+                            "num_date_confidence": [
+                              2013.3198102067968,
+                              2013.3586584531142
+                            ]
+                          },
+                          "branch_length": 4.66e-06,
+                          "children": [
+                            {
+                              "aa_muts": {},
+                              "attr": {
+                                "accession": "KF600647",
+                                "clock_length": 3.353575924625908e-06,
+                                "country": "Saudi-Arabia",
+                                "country_confidence": {
+                                  "Saudi-Arabia": 1.0
+                                },
+                                "country_entropy": -1.000088900581841e-12,
+                                "date": "2013-05-14",
+                                "div": 0.0008486882034519478,
+                                "num_date": 2013.3696098562627,
+                                "num_date_confidence": [
+                                  2013.3696098562627,
+                                  2013.3696098562627
+                                ],
+                                "raw_date": "2013-05-15"
+                              },
+                              "branch_length": 3.35e-06,
+                              "clade": 23,
+                              "muts": [],
+                              "strain": "KF600647",
+                              "yvalue": 31
+                            },
+                            {
+                              "aa_muts": {},
+                              "attr": {
+                                "accession": "KF600645",
+                                "clock_length": 0.0,
+                                "country": "Saudi-Arabia",
+                                "country_confidence": {
+                                  "Saudi-Arabia": 1.0
+                                },
+                                "country_entropy": -1.000088900581841e-12,
+                                "date": "2013-05-10",
+                                "div": 0.0008486882034519478,
+                                "num_date": 2013.3586584531142,
+                                "num_date_confidence": [
+                                  2013.3586584531142,
+                                  2013.3586584531142
+                                ],
+                                "raw_date": "2013-05-11"
+                              },
+                              "branch_length": 0.0,
+                              "clade": 24,
+                              "muts": [],
+                              "strain": "KF600645",
+                              "yvalue": 30
+                            }
+                          ],
+                          "clade": 25,
+                          "muts": [],
+                          "strain": "NODE_0000025",
+                          "yvalue": 30.5
+                        }
+                      ],
+                      "clade": 26,
+                      "muts": [],
+                      "strain": "NODE_0000020",
+                      "yvalue": 31.25
+                    }
+                  ],
+                  "clade": 27,
+                  "muts": [],
+                  "strain": "NODE_0000011",
+                  "yvalue": 32.375
+                }
+              ],
+              "clade": 28,
+              "muts": [
+                "T21791C",
+                "T21965C",
+                "G23357A",
+                "C24806T",
+                "G25079T",
+                "T25704C",
+                "A25968T",
+                "C27283T"
+              ],
+              "strain": "NODE_0000036",
+              "yvalue": 36.1875
+            }
+          ],
+          "clade": 29,
+          "muts": [
+            "T22334C"
+          ],
+          "strain": "NODE_0000030",
+          "yvalue": 41.09375
+        },
+        {
+          "aa_muts": {},
+          "attr": {
+            "clock_length": 0.00010193860411195641,
+            "country": "Saudi-Arabia",
+            "country_confidence": {
+              "Saudi-Arabia": 0.9997706630215388
+            },
+            "country_entropy": 0.0023610768165511086,
+            "date": "2012-09-07",
+            "div": 0.0006110905145091765,
+            "num_date": 2012.6844633743233,
+            "num_date_confidence": [
+              2011.7365924467388,
+              2012.8131416837782
+            ]
+          },
+          "branch_length": 0.00010194,
+          "children": [
+            {
+              "aa_muts": {},
+              "attr": {
+                "accession": "KF600612",
+                "clock_length": 3.940430963574439e-05,
+                "country": "Saudi-Arabia",
+                "country_confidence": {
+                  "Saudi-Arabia": 1.0
+                },
+                "country_entropy": -1.000088900581841e-12,
+                "date": "2012-10-23",
+                "div": 0.0006450285928991784,
+                "num_date": 2012.8131416837782,
+                "num_date_confidence": [
+                  2012.8131416837782,
+                  2012.8131416837782
+                ],
+                "raw_date": "2012-10-23"
+              },
+              "branch_length": 3.94e-05,
+              "clade": 30,
+              "muts": [
+                "A22981G"
+              ],
+              "strain": "KF600612",
+              "yvalue": 29
+            },
+            {
+              "aa_muts": {},
+              "attr": {
+                "clock_length": 9.859735981528278e-05,
+                "country": "Saudi-Arabia",
+                "country_confidence": {
+                  "Saudi-Arabia": 0.9999585703641283
+                },
+                "country_entropy": 0.0005248473443383911,
+                "date": "2013-01-02",
+                "div": 0.0008486976918418395,
+                "num_date": 2013.0064419014193,
+                "num_date_confidence": [
+                  2012.224196259108,
+                  2013.2136917167115
+                ]
+              },
+              "branch_length": 9.86e-05,
+              "children": [
+                {
+                  "aa_muts": {},
+                  "attr": {
+                    "clock_length": 6.151960745586675e-05,
+                    "country": "Saudi-Arabia",
+                    "country_confidence": {
+                      "Saudi-Arabia": 0.9996591314920613
+                    },
+                    "country_entropy": 0.003155151073349384,
+                    "date": "2013-03-16",
+                    "div": 0.0010184122975380686,
+                    "num_date": 2013.2073397006432,
+                    "num_date_confidence": [
+                      2012.7118766108035,
+                      2013.4183287425842
+                    ]
+                  },
+                  "branch_length": 6.152e-05,
+                  "children": [
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "accession": "KJ156873",
+                        "clock_length": 0.00012514637733916515,
+                        "country": "Saudi-Arabia",
+                        "country_confidence": {
+                          "Saudi-Arabia": 1.0
+                        },
+                        "country_entropy": -1.000088900581841e-12,
+                        "date": "2013-08-13",
+                        "div": 0.0011881272585881285,
+                        "num_date": 2013.6160164271048,
+                        "num_date_confidence": [
+                          2013.6160164271048,
+                          2013.6160164271048
+                        ],
+                        "raw_date": "2013-08-13"
+                      },
+                      "branch_length": 0.00012515,
+                      "clade": 31,
+                      "muts": [
+                        "C24863T",
+                        "C25136T",
+                        "C25590T",
+                        "T27478C",
+                        "C28185T"
+                      ],
+                      "strain": "KJ156873",
+                      "yvalue": 28
+                    },
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "clock_length": 0.00014688971385220812,
+                        "country": "Qatar",
+                        "country_confidence": {
+                          "Qatar": 0.9851411923713479,
+                          "Saudi-Arabia": 0.014352523304425007
+                        },
+                        "country_entropy": 0.08029734870149197,
+                        "date": "2013-09-07",
+                        "div": 0.0012560283538691926,
+                        "num_date": 2013.6870212438437,
+                        "num_date_confidence": [
+                          2013.6141884767758,
+                          2013.7830253251198
+                        ]
+                      },
+                      "branch_length": 0.00014689,
+                      "children": [
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "accession": "KF961222",
+                            "clock_length": 3.2752272262180724e-05,
+                            "country": "Qatar",
+                            "country_confidence": {
+                              "Qatar": 1.0
+                            },
+                            "country_entropy": -1.000088900581841e-12,
+                            "date": "2013-10-16",
+                            "div": 0.0012560283538692136,
+                            "num_date": 2013.7939767282683,
+                            "num_date_confidence": [
+                              2013.7939767282683,
+                              2013.7939767282683
+                            ],
+                            "raw_date": "2013-10-17"
+                          },
+                          "branch_length": 3.275e-05,
+                          "clade": 32,
+                          "muts": [],
+                          "strain": "KF961222",
+                          "yvalue": 27
+                        },
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "accession": "KF961221",
+                            "clock_length": 2.9398696337554816e-05,
+                            "country": "Qatar",
+                            "country_confidence": {
+                              "Qatar": 1.0
+                            },
+                            "country_entropy": -1.000088900581841e-12,
+                            "date": "2013-10-12",
+                            "div": 0.001289970117978691,
+                            "num_date": 2013.7830253251198,
+                            "num_date_confidence": [
+                              2013.7830253251198,
+                              2013.7830253251198
+                            ],
+                            "raw_date": "2013-10-13"
+                          },
+                          "branch_length": 2.94e-05,
+                          "clade": 33,
+                          "muts": [
+                            "C28996T"
+                          ],
+                          "strain": "KF961221",
+                          "yvalue": 26
+                        }
+                      ],
+                      "clade": 34,
+                      "muts": [
+                        "C20874T",
+                        "C22834T",
+                        "C24383T",
+                        "C24659T",
+                        "T24926C",
+                        "C25671T",
+                        "C29237T"
+                      ],
+                      "strain": "NODE_0000024",
+                      "yvalue": 26.5
+                    },
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "clock_length": 9.215903023754649e-06,
+                        "country": "Saudi-Arabia",
+                        "country_confidence": {
+                          "Saudi-Arabia": 0.9999642568657625
+                        },
+                        "country_entropy": 0.00045774646565770465,
+                        "date": "2013-03-27",
+                        "div": 0.0010523513273699948,
+                        "num_date": 2013.2374350590483,
+                        "num_date_confidence": [
+                          2012.8256435442363,
+                          2013.5422694780648
+                        ]
+                      },
+                      "branch_length": 9.22e-06,
+                      "children": [
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "accession": "KJ156911",
+                            "clock_length": 0.0001100617164472976,
+                            "country": "Saudi-Arabia",
+                            "country_confidence": {
+                              "Saudi-Arabia": 1.0
+                            },
+                            "country_entropy": -1.000088900581841e-12,
+                            "date": "2013-08-06",
+                            "div": 0.0011881169748290136,
+                            "num_date": 2013.5968514715948,
+                            "num_date_confidence": [
+                              2013.5968514715948,
+                              2013.5968514715948
+                            ],
+                            "raw_date": "2013-08-06"
+                          },
+                          "branch_length": 0.00011006,
+                          "clade": 35,
+                          "muts": [
+                            "C21859T",
+                            "T22148C",
+                            "C24863T",
+                            "G28764T"
+                          ],
+                          "strain": "KJ156911",
+                          "yvalue": 25
+                        },
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "accession": "KJ156901",
+                            "clock_length": 0.00011173850440957585,
+                            "country": "Saudi-Arabia",
+                            "country_confidence": {
+                              "Saudi-Arabia": 1.0
+                            },
+                            "country_entropy": -1.000088900581841e-12,
+                            "date": "2013-08-07",
+                            "div": 0.0012560107718395269,
+                            "num_date": 2013.602327173169,
+                            "num_date_confidence": [
+                              2013.602327173169,
+                              2013.602327173169
+                            ],
+                            "raw_date": "2013-08-08"
+                          },
+                          "branch_length": 0.00011174,
+                          "clade": 36,
+                          "muts": [
+                            "T26967C",
+                            "T27229C",
+                            "A27874G",
+                            "A28057G",
+                            "T28572G",
+                            "A28673T"
+                          ],
+                          "strain": "KJ156901",
+                          "yvalue": 24
+                        }
+                      ],
+                      "clade": 37,
+                      "muts": [
+                        "G21927T"
+                      ],
+                      "strain": "NODE_0000026",
+                      "yvalue": 24.5
+                    }
+                  ],
+                  "clade": 38,
+                  "muts": [
+                    "C21220T",
+                    "T21569C",
+                    "T22895C",
+                    "T23406C",
+                    "T23714G"
+                  ],
+                  "strain": "NODE_0000023",
+                  "yvalue": 26.25
+                },
+                {
+                  "aa_muts": {},
+                  "attr": {
+                    "clock_length": 6.264485160537361e-05,
+                    "country": "Saudi-Arabia",
+                    "country_confidence": {
+                      "Saudi-Arabia": 0.9999615221511238
+                    },
+                    "country_entropy": 0.0004894120483476607,
+                    "date": "2013-03-18",
+                    "div": 0.000984467683149527,
+                    "num_date": 2013.2110142863983,
+                    "num_date_confidence": [
+                      2012.6320849552014,
+                      2013.5370602282555
+                    ]
+                  },
+                  "branch_length": 6.264e-05,
+                  "children": [
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "clock_length": 7.779930972717959e-05,
+                        "country": "Saudi-Arabia",
+                        "country_confidence": {
+                          "Saudi-Arabia": 0.9999556707138993
+                        },
+                        "country_entropy": 0.0005482917324507535,
+                        "date": "2013-06-18",
+                        "div": 0.001086291952200085,
+                        "num_date": 2013.465074914411,
+                        "num_date_confidence": [
+                          2012.9873231630415,
+                          2013.667830499425
+                        ]
+                      },
+                      "branch_length": 7.78e-05,
+                      "children": [
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "accession": "KF958702",
+                            "clock_length": 0.00011664691787969302,
+                            "country": "Saudi-Arabia",
+                            "country_confidence": {
+                              "Saudi-Arabia": 1.0
+                            },
+                            "country_entropy": -1.000088900581841e-12,
+                            "date": "2013-11-04",
+                            "div": 0.001459784274020587,
+                            "num_date": 2013.8459958932237,
+                            "num_date_confidence": [
+                              2013.8459958932237,
+                              2013.8459958932237
+                            ],
+                            "raw_date": "2013-11-05"
+                          },
+                          "branch_length": 0.00011665,
+                          "clade": 39,
+                          "muts": [
+                            "G24514A",
+                            "G24515C",
+                            "C24740G",
+                            "C25791A",
+                            "G25806T",
+                            "T25819A",
+                            "T26167C",
+                            "G26351T",
+                            "C26881T",
+                            "G29018T",
+                            "C29147T"
+                          ],
+                          "strain": "KF958702",
+                          "yvalue": 23
+                        },
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "clock_length": 0.00011183735753404582,
+                            "country": "Saudi-Arabia",
+                            "country_confidence": {
+                              "Saudi-Arabia": 0.9993990996422583
+                            },
+                            "country_entropy": 0.005275767938308619,
+                            "date": "2013-10-30",
+                            "div": 0.0011202312396859742,
+                            "num_date": 2013.830289842281,
+                            "num_date_confidence": [
+                              2013.6706352402257,
+                              2014.1352318777147
+                            ]
+                          },
+                          "branch_length": 0.00011184,
+                          "children": [
+                            {
+                              "aa_muts": {},
+                              "attr": {
+                                "accession": "KR011264",
+                                "clock_length": 0.00037579889700804477,
+                                "country": "Saudi-Arabia",
+                                "country_confidence": {
+                                  "Saudi-Arabia": 1.0
+                                },
+                                "country_entropy": -1.000088900581841e-12,
+                                "date": "2015-01-21",
+                                "div": 0.001188111291546902,
+                                "num_date": 2015.0574948665299,
+                                "num_date_confidence": [
+                                  2015.0574948665299,
+                                  2015.0574948665299
+                                ],
+                                "raw_date": "2015-01-21"
+                              },
+                              "branch_length": 0.0003758,
+                              "clade": 40,
+                              "muts": [
+                                "T25396C",
+                                "A29288G"
+                              ],
+                              "strain": "KR011264",
+                              "yvalue": 22
+                            },
+                            {
+                              "aa_muts": {},
+                              "attr": {
+                                "clock_length": 0.00014000058980735241,
+                                "country": "Saudi-Arabia",
+                                "country_confidence": {
+                                  "Saudi-Arabia": 0.9760101741567331,
+                                  "United-Arab-Emirates": 0.02338590213374161
+                                },
+                                "country_entropy": 0.11695126218004441,
+                                "date": "2014-04-14",
+                                "div": 0.0012560068487130626,
+                                "num_date": 2014.2874743326488,
+                                "num_date_confidence": [
+                                  2014.186626493931,
+                                  2014.2874743326488
+                                ]
+                              },
+                              "branch_length": 0.00014,
+                              "children": [
+                                {
+                                  "aa_muts": {},
+                                  "attr": {
+                                    "accession": "KY581693",
+                                    "clock_length": 4.191969905834644e-06,
+                                    "country": "United-Arab-Emirates",
+                                    "country_confidence": {
+                                      "United-Arab-Emirates": 1.0
+                                    },
+                                    "country_entropy": -1.000088900581841e-12,
+                                    "date": "2014-04-20",
+                                    "div": 0.0012560068487130836,
+                                    "num_date": 2014.3011635865846,
+                                    "num_date_confidence": [
+                                      2014.3011635865846,
+                                      2014.3011635865846
+                                    ],
+                                    "raw_date": "2014-04-20"
+                                  },
+                                  "branch_length": 4.19e-06,
+                                  "clade": 41,
+                                  "muts": [],
+                                  "strain": "KY581693",
+                                  "yvalue": 21
+                                },
+                                {
+                                  "aa_muts": {},
+                                  "attr": {
+                                    "accession": "KM027261",
+                                    "clock_length": 0.0,
+                                    "country": "Saudi-Arabia",
+                                    "country_confidence": {
+                                      "Saudi-Arabia": 1.0
+                                    },
+                                    "country_entropy": -1.000088900581841e-12,
+                                    "date": "2014-04-14",
+                                    "div": 0.0012560068487130836,
+                                    "num_date": 2014.2874743326488,
+                                    "num_date_confidence": [
+                                      2014.2874743326488,
+                                      2014.2874743326488
+                                    ],
+                                    "raw_date": "2014-04-15"
+                                  },
+                                  "branch_length": 0.0,
+                                  "clade": 42,
+                                  "muts": [],
+                                  "strain": "KM027261",
+                                  "yvalue": 20
+                                }
+                              ],
+                              "clade": 43,
+                              "muts": [
+                                "A23953G",
+                                "T28778A",
+                                "T28880C",
+                                "G28941C"
+                              ],
+                              "strain": "NODE_0000021",
+                              "yvalue": 20.5
+                            }
+                          ],
+                          "clade": 44,
+                          "muts": [
+                            "C23804T"
+                          ],
+                          "strain": "NODE_0000034",
+                          "yvalue": 21.25
+                        }
+                      ],
+                      "clade": 45,
+                      "muts": [
+                        "T24191C",
+                        "T24251C",
+                        "T24299C"
+                      ],
+                      "strain": "NODE_0000019",
+                      "yvalue": 22.125
+                    },
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "clock_length": 0.0004279042289744926,
+                        "country": "Saudi-Arabia",
+                        "country_confidence": {
+                          "Saudi-Arabia": 0.999623885736782
+                        },
+                        "country_entropy": 0.003586775309133802,
+                        "date": "2014-08-10",
+                        "div": 0.0014258660607988673,
+                        "num_date": 2014.608373948376,
+                        "num_date_confidence": [
+                          2014.1853848474252,
+                          2015.0967945959314
+                        ]
+                      },
+                      "branch_length": 0.0004279,
+                      "children": [
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "clock_length": 0.00027862353801643715,
+                            "country": "Saudi-Arabia",
+                            "country_confidence": {
+                              "Saudi-Arabia": 0.9999993084496883
+                            },
+                            "country_entropy": 1.1508192146930908e-05,
+                            "date": "2015-07-08",
+                            "div": 0.0014598084977695692,
+                            "num_date": 2015.518244116836,
+                            "num_date_confidence": [
+                              2015.3935709982475,
+                              2015.5767358252008
+                            ]
+                          },
+                          "branch_length": 0.00027862,
+                          "children": [
+                            {
+                              "aa_muts": {},
+                              "attr": {
+                                "accession": "MG757596",
+                                "clock_length": 3.916250322728073e-05,
+                                "country": "Saudi-Arabia",
+                                "country_confidence": {
+                                  "Saudi-Arabia": 1.0
+                                },
+                                "country_entropy": -1.000088900581841e-12,
+                                "date": "2015-08-24",
+                                "div": 0.0015276965764719217,
+                                "num_date": 2015.6461327857633,
+                                "num_date_confidence": [
+                                  2015.6461327857633,
+                                  2015.6461327857633
+                                ],
+                                "raw_date": "2015-08-24"
+                              },
+                              "branch_length": 3.916e-05,
+                              "clade": 46,
+                              "muts": [
+                                "C25814T",
+                                "C28017T"
+                              ],
+                              "strain": "MG757596",
+                              "yvalue": 19
+                            },
+                            {
+                              "aa_muts": {},
+                              "attr": {
+                                "accession": "MG757593",
+                                "clock_length": 3.748571526493308e-05,
+                                "country": "Saudi-Arabia",
+                                "country_confidence": {
+                                  "Saudi-Arabia": 1.0
+                                },
+                                "country_entropy": -1.000088900581841e-12,
+                                "date": "2015-08-21",
+                                "div": 0.0014598084977695902,
+                                "num_date": 2015.640657084189,
+                                "num_date_confidence": [
+                                  2015.640657084189,
+                                  2015.640657084189
+                                ],
+                                "raw_date": "2015-08-22"
+                              },
+                              "branch_length": 3.749e-05,
+                              "clade": 47,
+                              "muts": [],
+                              "strain": "MG757593",
+                              "yvalue": 18
+                            },
+                            {
+                              "aa_muts": {},
+                              "attr": {
+                                "accession": "MG757595",
+                                "clock_length": 3.916250322728073e-05,
+                                "country": "Saudi-Arabia",
+                                "country_confidence": {
+                                  "Saudi-Arabia": 1.0
+                                },
+                                "country_entropy": -1.000088900581841e-12,
+                                "date": "2015-08-24",
+                                "div": 0.0015276959798756122,
+                                "num_date": 2015.6461327857633,
+                                "num_date_confidence": [
+                                  2015.6461327857633,
+                                  2015.6461327857633
+                                ],
+                                "raw_date": "2015-08-24"
+                              },
+                              "branch_length": 3.916e-05,
+                              "clade": 48,
+                              "muts": [
+                                "C23897T",
+                                "A27108G"
+                              ],
+                              "strain": "MG757595",
+                              "yvalue": 17
+                            }
+                          ],
+                          "clade": 49,
+                          "muts": [
+                            "T28212C",
+                            "C28597T"
+                          ],
+                          "strain": "NODE_0000016",
+                          "yvalue": 18.0
+                        },
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "clock_length": -6.313892493166589e-07,
+                            "country": "Saudi-Arabia",
+                            "country_confidence": {
+                              "Saudi-Arabia": 0.9815627238444836,
+                              "South-Korea": 0.017513937149581788
+                            },
+                            "country_entropy": 0.0969557504422492,
+                            "date": "2014-08-09",
+                            "div": 0.0014598084977695692,
+                            "num_date": 2014.6063120901185,
+                            "num_date_confidence": [
+                              2014.4417558705502,
+                              2015.1122518822724
+                            ]
+                          },
+                          "branch_length": -6.3e-07,
+                          "children": [
+                            {
+                              "aa_muts": {},
+                              "attr": {
+                                "accession": "KT026453",
+                                "clock_length": 0.00015493060416722402,
+                                "country": "Saudi-Arabia",
+                                "country_confidence": {
+                                  "Saudi-Arabia": 1.0
+                                },
+                                "country_entropy": -1.000088900581841e-12,
+                                "date": "2015-02-10",
+                                "div": 0.0015276963160098095,
+                                "num_date": 2015.1122518822724,
+                                "num_date_confidence": [
+                                  2015.1122518822724,
+                                  2015.1122518822724
+                                ],
+                                "raw_date": "2015-02-10"
+                              },
+                              "branch_length": 0.00015493,
+                              "clade": 50,
+                              "muts": [
+                                "G26163T",
+                                "G26825T"
+                              ],
+                              "strain": "KT026453",
+                              "yvalue": 16
+                            },
+                            {
+                              "aa_muts": {},
+                              "attr": {
+                                "clock_length": 0.00013644953488295506,
+                                "country": "South-Korea",
+                                "country_confidence": {
+                                  "Saudi-Arabia": 0.016456947504184596,
+                                  "South-Korea": 0.9828680552616486
+                                },
+                                "country_entropy": 0.09056519182394217,
+                                "date": "2015-01-18",
+                                "div": 0.0015955913141199507,
+                                "num_date": 2015.0519002919411,
+                                "num_date_confidence": [
+                                  2014.927236254483,
+                                  2015.313605603317
+                                ]
+                              },
+                              "branch_length": 0.00013645,
+                              "children": [
+                                {
+                                  "aa_muts": {},
+                                  "attr": {
+                                    "accession": "KT029139",
+                                    "clock_length": 0.00010148207341891761,
+                                    "country": "South-Korea",
+                                    "country_confidence": {
+                                      "South-Korea": 0.9999999999999999
+                                    },
+                                    "country_entropy": -9.99866855976916e-13,
+                                    "date": "2015-05-20",
+                                    "div": 0.001765333966276369,
+                                    "num_date": 2015.3832991101985,
+                                    "num_date_confidence": [
+                                      2015.3832991101985,
+                                      2015.3832991101985
+                                    ],
+                                    "raw_date": "2015-05-20"
+                                  },
+                                  "branch_length": 0.00010148,
+                                  "clade": 51,
+                                  "muts": [
+                                    "A21864C",
+                                    "G23043C",
+                                    "T24383C",
+                                    "A25968T",
+                                    "C26109T"
+                                  ],
+                                  "strain": "KT029139",
+                                  "yvalue": 15
+                                },
+                                {
+                                  "aa_muts": {},
+                                  "attr": {
+                                    "clock_length": 3.599629494090606e-05,
+                                    "country": "South-Korea",
+                                    "country_confidence": {
+                                      "South-Korea": 0.9996605503905714
+                                    },
+                                    "country_entropy": 0.00324039359309731,
+                                    "date": "2015-03-02",
+                                    "div": 0.0016295345894356754,
+                                    "num_date": 2015.169449423558,
+                                    "num_date_confidence": [
+                                      2015.038812040432,
+                                      2015.3537152436595
+                                    ]
+                                  },
+                                  "branch_length": 3.6e-05,
+                                  "children": [
+                                    {
+                                      "aa_muts": {},
+                                      "attr": {
+                                        "clock_length": 3.090725656370143e-05,
+                                        "country": "South-Korea",
+                                        "country_confidence": {
+                                          "South-Korea": 0.999978364992939
+                                        },
+                                        "country_entropy": 0.0002855276994973775,
+                                        "date": "2015-04-08",
+                                        "div": 0.0016634775394773376,
+                                        "num_date": 2015.2703798436382,
+                                        "num_date_confidence": [
+                                          2015.176292004447,
+                                          2015.410013052229
+                                        ]
+                                      },
+                                      "branch_length": 3.091e-05,
+                                      "children": [
+                                        {
+                                          "aa_muts": {},
+                                          "attr": {
+                                            "clock_length": 5.3374476040260726e-05,
+                                            "country": "South-Korea",
+                                            "country_confidence": {
+                                              "South-Korea": 0.9999844229292622
+                                            },
+                                            "country_entropy": 0.00021309151291118352,
+                                            "date": "2015-06-11",
+                                            "div": 0.00173136561817969,
+                                            "num_date": 2015.4446789852395,
+                                            "num_date_confidence": [
+                                              2015.3867294741087,
+                                              2015.4709103353866
+                                            ]
+                                          },
+                                          "branch_length": 5.337e-05,
+                                          "children": [
+                                            {
+                                              "aa_muts": {},
+                                              "attr": {
+                                                "accession": "KT374057",
+                                                "clock_length": 1.0547835214543867e-05,
+                                                "country": "South-Korea",
+                                                "country_confidence": {
+                                                  "South-Korea": 1.0
+                                                },
+                                                "country_entropy": -1.000088900581841e-12,
+                                                "date": "2015-06-23",
+                                                "div": 0.0017653096091496457,
+                                                "num_date": 2015.479123887748,
+                                                "num_date_confidence": [
+                                                  2015.479123887748,
+                                                  2015.479123887748
+                                                ],
+                                                "raw_date": "2015-06-24"
+                                              },
+                                              "branch_length": 1.055e-05,
+                                              "clade": 52,
+                                              "muts": [
+                                                "C25495T"
+                                              ],
+                                              "strain": "KT374057",
+                                              "yvalue": 14
+                                            },
+                                            {
+                                              "aa_muts": {},
+                                              "attr": {
+                                                "accession": "KT374056",
+                                                "clock_length": 8.032653271057089e-06,
+                                                "country": "South-Korea",
+                                                "country_confidence": {
+                                                  "South-Korea": 1.0
+                                                },
+                                                "country_entropy": -1.000088900581841e-12,
+                                                "date": "2015-06-20",
+                                                "div": 0.001731365618179711,
+                                                "num_date": 2015.4709103353866,
+                                                "num_date_confidence": [
+                                                  2015.4709103353866,
+                                                  2015.4709103353866
+                                                ],
+                                                "raw_date": "2015-06-21"
+                                              },
+                                              "branch_length": 8.03e-06,
+                                              "clade": 53,
+                                              "muts": [],
+                                              "strain": "KT374056",
+                                              "yvalue": 13
+                                            }
+                                          ],
+                                          "clade": 54,
+                                          "muts": [
+                                            "C21726T",
+                                            "C25903T"
+                                          ],
+                                          "strain": "NODE_0000012",
+                                          "yvalue": 13.5
+                                        },
+                                        {
+                                          "aa_muts": {},
+                                          "attr": {
+                                            "clock_length": 2.7011695042840735e-05,
+                                            "country": "South-Korea",
+                                            "country_confidence": {
+                                              "South-Korea": 0.999984177956406
+                                            },
+                                            "country_entropy": 0.00021617436644880142,
+                                            "date": "2015-05-10",
+                                            "div": 0.0016634775394773586,
+                                            "num_date": 2015.358588957965,
+                                            "num_date_confidence": [
+                                              2015.2741606599739,
+                                              2015.4191169730982
+                                            ]
+                                          },
+                                          "branch_length": 2.701e-05,
+                                          "children": [
+                                            {
+                                              "aa_muts": {},
+                                              "attr": {
+                                                "accession": "KX034097",
+                                                "clock_length": 3.104185834385117e-05,
+                                                "country": "South-Korea",
+                                                "country_confidence": {
+                                                  "South-Korea": 1.0
+                                                },
+                                                "country_entropy": -1.000088900581841e-12,
+                                                "date": "2015-06-16",
+                                                "div": 0.0016974204566531305,
+                                                "num_date": 2015.4599589322381,
+                                                "num_date_confidence": [
+                                                  2015.4599589322381,
+                                                  2015.4599589322381
+                                                ],
+                                                "raw_date": "2015-06-17"
+                                              },
+                                              "branch_length": 3.104e-05,
+                                              "clade": 55,
+                                              "muts": [
+                                                "C22356T"
+                                              ],
+                                              "strain": "KX034097",
+                                              "yvalue": 12
+                                            },
+                                            {
+                                              "aa_muts": {},
+                                              "attr": {
+                                                "clock_length": 2.01427365888341e-05,
+                                                "country": "South-Korea",
+                                                "country_confidence": {
+                                                  "South-Korea": 0.9999845206819775
+                                                },
+                                                "country_entropy": 0.00021189074521640376,
+                                                "date": "2015-06-04",
+                                                "div": 0.0016634775394773797,
+                                                "num_date": 2015.4243668720055,
+                                                "num_date_confidence": [
+                                                  2015.3645213589057,
+                                                  2015.4243668720055
+                                                ]
+                                              },
+                                              "branch_length": 2.014e-05,
+                                              "children": [
+                                                {
+                                                  "aa_muts": {},
+                                                  "attr": {
+                                                    "accession": "KX034094",
+                                                    "clock_length": 5.868757868112903e-06,
+                                                    "country": "South-Korea",
+                                                    "country_confidence": {
+                                                      "South-Korea": 1.0
+                                                    },
+                                                    "country_entropy": -1.000088900581841e-12,
+                                                    "date": "2015-06-11",
+                                                    "div": 0.0016634775394774007,
+                                                    "num_date": 2015.4435318275155,
+                                                    "num_date_confidence": [
+                                                      2015.4435318275155,
+                                                      2015.4435318275155
+                                                    ],
+                                                    "raw_date": "2015-06-11"
+                                                  },
+                                                  "branch_length": 5.87e-06,
+                                                  "clade": 56,
+                                                  "muts": [],
+                                                  "strain": "KX034094",
+                                                  "yvalue": 11
+                                                },
+                                                {
+                                                  "aa_muts": {},
+                                                  "attr": {
+                                                    "accession": "KX034095",
+                                                    "clock_length": 0.0,
+                                                    "country": "South-Korea",
+                                                    "country_confidence": {
+                                                      "South-Korea": 1.0
+                                                    },
+                                                    "country_entropy": -1.000088900581841e-12,
+                                                    "date": "2015-06-04",
+                                                    "div": 0.0016634775394774007,
+                                                    "num_date": 2015.4243668720055,
+                                                    "num_date_confidence": [
+                                                      2015.4243668720055,
+                                                      2015.4243668720055
+                                                    ],
+                                                    "raw_date": "2015-06-04"
+                                                  },
+                                                  "branch_length": 0.0,
+                                                  "clade": 57,
+                                                  "muts": [],
+                                                  "strain": "KX034095",
+                                                  "yvalue": 10
+                                                }
+                                              ],
+                                              "clade": 58,
+                                              "muts": [],
+                                              "strain": "NODE_0000044",
+                                              "yvalue": 10.5
+                                            }
+                                          ],
+                                          "clade": 59,
+                                          "muts": [],
+                                          "strain": "NODE_0000035",
+                                          "yvalue": 11.25
+                                        }
+                                      ],
+                                      "clade": 60,
+                                      "muts": [
+                                        "A22984G"
+                                      ],
+                                      "strain": "NODE_0000009",
+                                      "yvalue": 12.375
+                                    },
+                                    {
+                                      "aa_muts": {},
+                                      "attr": {
+                                        "clock_length": 2.0377317557291252e-05,
+                                        "country": "South-Korea",
+                                        "country_confidence": {
+                                          "South-Korea": 0.999639186167045
+                                        },
+                                        "country_entropy": 0.003396934508908442,
+                                        "date": "2015-03-27",
+                                        "div": 0.0016295345894356964,
+                                        "num_date": 2015.2359933828034,
+                                        "num_date_confidence": [
+                                          2015.1495961344528,
+                                          2015.3602244281115
+                                        ]
+                                      },
+                                      "branch_length": 2.038e-05,
+                                      "children": [
+                                        {
+                                          "aa_muts": {},
+                                          "attr": {
+                                            "clock_length": 2.254124212106609e-05,
+                                            "country": "South-Korea",
+                                            "country_confidence": {
+                                              "China": 0.01749043071866078,
+                                              "South-Korea": 0.9819667921245306
+                                            },
+                                            "country_entropy": 0.09354614357755522,
+                                            "date": "2015-04-23",
+                                            "div": 0.0016295345894357174,
+                                            "num_date": 2015.3096038319134,
+                                            "num_date_confidence": [
+                                              2015.205175733572,
+                                              2015.4024640657085
+                                            ]
+                                          },
+                                          "branch_length": 2.254e-05,
+                                          "children": [
+                                            {
+                                              "aa_muts": {},
+                                              "attr": {
+                                                "accession": "KT006149",
+                                                "clock_length": 2.843597666776711e-05,
+                                                "country": "China",
+                                                "country_confidence": {
+                                                  "China": 1.0
+                                                },
+                                                "country_entropy": -1.000088900581841e-12,
+                                                "date": "2015-05-27",
+                                                "div": 0.0016634793649571275,
+                                                "num_date": 2015.4024640657085,
+                                                "num_date_confidence": [
+                                                  2015.4024640657085,
+                                                  2015.4024640657085
+                                                ],
+                                                "raw_date": "2015-05-27"
+                                              },
+                                              "branch_length": 2.844e-05,
+                                              "clade": 61,
+                                              "muts": [
+                                                "C21638G"
+                                              ],
+                                              "strain": "KT006149",
+                                              "yvalue": 9
+                                            },
+                                            {
+                                              "aa_muts": {},
+                                              "attr": {
+                                                "clock_length": 4.5392773684573874e-05,
+                                                "country": "South-Korea",
+                                                "country_confidence": {
+                                                  "South-Korea": 0.9996729823493141
+                                                },
+                                                "country_entropy": 0.003085511501359916,
+                                                "date": "2015-06-16",
+                                                "div": 0.0016634775394773797,
+                                                "num_date": 2015.4578380081546,
+                                                "num_date_confidence": [
+                                                  2015.3986680882151,
+                                                  2015.4654346338125
+                                                ]
+                                              },
+                                              "branch_length": 4.539e-05,
+                                              "children": [
+                                                {
+                                                  "aa_muts": {},
+                                                  "attr": {
+                                                    "accession": "KT374051",
+                                                    "clock_length": 2.3262645498097704e-06,
+                                                    "country": "South-Korea",
+                                                    "country_confidence": {
+                                                      "South-Korea": 1.0
+                                                    },
+                                                    "country_entropy": -1.000088900581841e-12,
+                                                    "date": "2015-06-19",
+                                                    "div": 0.0016634775394774007,
+                                                    "num_date": 2015.4654346338125,
+                                                    "num_date_confidence": [
+                                                      2015.4654346338125,
+                                                      2015.4654346338125
+                                                    ],
+                                                    "raw_date": "2015-06-19"
+                                                  },
+                                                  "branch_length": 2.33e-06,
+                                                  "clade": 62,
+                                                  "muts": [],
+                                                  "strain": "KT374051",
+                                                  "yvalue": 8
+                                                },
+                                                {
+                                                  "aa_muts": {},
+                                                  "attr": {
+                                                    "accession": "KT374050",
+                                                    "clock_length": 1.0710204361409452e-05,
+                                                    "country": "South-Korea",
+                                                    "country_confidence": {
+                                                      "South-Korea": 1.0
+                                                    },
+                                                    "country_entropy": -1.000088900581841e-12,
+                                                    "date": "2015-06-29",
+                                                    "div": 0.0016634775394774007,
+                                                    "num_date": 2015.4928131416839,
+                                                    "num_date_confidence": [
+                                                      2015.4928131416839,
+                                                      2015.4928131416839
+                                                    ],
+                                                    "raw_date": "2015-06-29"
+                                                  },
+                                                  "branch_length": 1.071e-05,
+                                                  "clade": 63,
+                                                  "muts": [],
+                                                  "strain": "KT374050",
+                                                  "yvalue": 7
+                                                }
+                                              ],
+                                              "clade": 64,
+                                              "muts": [
+                                                "A24622G"
+                                              ],
+                                              "strain": "NODE_0000006",
+                                              "yvalue": 7.5
+                                            }
+                                          ],
+                                          "clade": 65,
+                                          "muts": [],
+                                          "strain": "NODE_0000039",
+                                          "yvalue": 8.25
+                                        },
+                                        {
+                                          "aa_muts": {},
+                                          "attr": {
+                                            "clock_length": 3.1866594887621554e-05,
+                                            "country": "South-Korea",
+                                            "country_confidence": {
+                                              "South-Korea": 0.9999778732434007
+                                            },
+                                            "country_entropy": 0.0002913412713136681,
+                                            "date": "2015-05-04",
+                                            "div": 0.001663477356771401,
+                                            "num_date": 2015.3400566082762,
+                                            "num_date_confidence": [
+                                              2015.239683322852,
+                                              2015.3948071340153
+                                            ]
+                                          },
+                                          "branch_length": 3.187e-05,
+                                          "children": [
+                                            {
+                                              "aa_muts": {},
+                                              "attr": {
+                                                "clock_length": 2.368010282877359e-05,
+                                                "country": "South-Korea",
+                                                "country_confidence": {
+                                                  "South-Korea": 0.99998416753673
+                                                },
+                                                "country_entropy": 0.00021630772381360492,
+                                                "date": "2015-06-01",
+                                                "div": 0.0016974196062929517,
+                                                "num_date": 2015.4173861092343,
+                                                "num_date_confidence": [
+                                                  2015.3512710467437,
+                                                  2015.4216290212185
+                                                ]
+                                              },
+                                              "branch_length": 2.368e-05,
+                                              "children": [
+                                                {
+                                                  "aa_muts": {},
+                                                  "attr": {
+                                                    "accession": "KT374054",
+                                                    "clock_length": 1.2992789405509575e-06,
+                                                    "country": "South-Korea",
+                                                    "country_confidence": {
+                                                      "South-Korea": 1.0
+                                                    },
+                                                    "country_entropy": -1.000088900581841e-12,
+                                                    "date": "2015-06-03",
+                                                    "div": 0.0016974196062929728,
+                                                    "num_date": 2015.4216290212185,
+                                                    "num_date_confidence": [
+                                                      2015.4216290212185,
+                                                      2015.4216290212185
+                                                    ],
+                                                    "raw_date": "2015-06-03"
+                                                  },
+                                                  "branch_length": 1.3e-06,
+                                                  "clade": 66,
+                                                  "muts": [],
+                                                  "strain": "KT374054",
+                                                  "yvalue": 6
+                                                },
+                                                {
+                                                  "aa_muts": {},
+                                                  "attr": {
+                                                    "clock_length": 5.4912488463157785e-06,
+                                                    "country": "South-Korea",
+                                                    "country_confidence": {
+                                                      "South-Korea": 0.9999845204725619
+                                                    },
+                                                    "country_entropy": 0.00021189341177006916,
+                                                    "date": "2015-06-08",
+                                                    "div": 0.0016974196062929728,
+                                                    "num_date": 2015.435318275154,
+                                                    "num_date_confidence": [
+                                                      2015.399507750863,
+                                                      2015.435318275154
+                                                    ]
+                                                  },
+                                                  "branch_length": 5.49e-06,
+                                                  "children": [
+                                                    {
+                                                      "aa_muts": {},
+                                                      "attr": {
+                                                        "accession": "KT374055",
+                                                        "clock_length": 8.383939811599682e-06,
+                                                        "country": "South-Korea",
+                                                        "country_confidence": {
+                                                          "South-Korea": 1.0
+                                                        },
+                                                        "country_entropy": -1.000088900581841e-12,
+                                                        "date": "2015-06-18",
+                                                        "div": 0.0016974196062929938,
+                                                        "num_date": 2015.4626967830254,
+                                                        "num_date_confidence": [
+                                                          2015.4626967830254,
+                                                          2015.4626967830254
+                                                        ],
+                                                        "raw_date": "2015-06-18"
+                                                      },
+                                                      "branch_length": 8.38e-06,
+                                                      "clade": 67,
+                                                      "muts": [],
+                                                      "strain": "KT374055",
+                                                      "yvalue": 5
+                                                    },
+                                                    {
+                                                      "aa_muts": {},
+                                                      "attr": {
+                                                        "accession": "KU308549",
+                                                        "clock_length": 0.0,
+                                                        "country": "South-Korea",
+                                                        "country_confidence": {
+                                                          "South-Korea": 1.0
+                                                        },
+                                                        "country_entropy": -1.000088900581841e-12,
+                                                        "date": "2015-06-08",
+                                                        "div": 0.0016974196062929938,
+                                                        "num_date": 2015.435318275154,
+                                                        "num_date_confidence": [
+                                                          2015.435318275154,
+                                                          2015.435318275154
+                                                        ],
+                                                        "raw_date": "2015-06-08"
+                                                      },
+                                                      "branch_length": 0.0,
+                                                      "clade": 68,
+                                                      "muts": [],
+                                                      "strain": "KU308549",
+                                                      "yvalue": 4
+                                                    }
+                                                  ],
+                                                  "clade": 69,
+                                                  "muts": [],
+                                                  "strain": "NODE_0000047",
+                                                  "yvalue": 4.5
+                                                }
+                                              ],
+                                              "clade": 70,
+                                              "muts": [
+                                                "T26979C"
+                                              ],
+                                              "strain": "NODE_0000001",
+                                              "yvalue": 5.25
+                                            },
+                                            {
+                                              "aa_muts": {},
+                                              "attr": {
+                                                "clock_length": 1.584130366908765e-05,
+                                                "country": "South-Korea",
+                                                "country_confidence": {
+                                                  "South-Korea": 0.99998416753673
+                                                },
+                                                "country_entropy": 0.00021630772381360492,
+                                                "date": "2015-05-23",
+                                                "div": 0.001663477356771422,
+                                                "num_date": 2015.3917878070854,
+                                                "num_date_confidence": [
+                                                  2015.3204417285033,
+                                                  2015.413415468857
+                                                ]
+                                              },
+                                              "branch_length": 1.584e-05,
+                                              "children": [
+                                                {
+                                                  "aa_muts": {},
+                                                  "attr": {
+                                                    "accession": "KT374052",
+                                                    "clock_length": 6.622896156749901e-06,
+                                                    "country": "South-Korea",
+                                                    "country_confidence": {
+                                                      "South-Korea": 1.0
+                                                    },
+                                                    "country_entropy": -1.000088900581841e-12,
+                                                    "date": "2015-05-31",
+                                                    "div": 0.0016634773567714431,
+                                                    "num_date": 2015.413415468857,
+                                                    "num_date_confidence": [
+                                                      2015.413415468857,
+                                                      2015.413415468857
+                                                    ],
+                                                    "raw_date": "2015-05-31"
+                                                  },
+                                                  "branch_length": 6.62e-06,
+                                                  "clade": 71,
+                                                  "muts": [],
+                                                  "strain": "KT374052",
+                                                  "yvalue": 3
+                                                },
+                                                {
+                                                  "aa_muts": {},
+                                                  "attr": {
+                                                    "clock_length": 1.578222782331034e-05,
+                                                    "country": "South-Korea",
+                                                    "country_confidence": {
+                                                      "South-Korea": 0.9999845204725619
+                                                    },
+                                                    "country_entropy": 0.00021189341177006916,
+                                                    "date": "2015-06-10",
+                                                    "div": 0.0016634773567714431,
+                                                    "num_date": 2015.4433260884184,
+                                                    "num_date_confidence": [
+                                                      2015.3960448321282,
+                                                      2015.4490075290896
+                                                    ]
+                                                  },
+                                                  "branch_length": 1.578e-05,
+                                                  "children": [
+                                                    {
+                                                      "aa_muts": {},
+                                                      "attr": {
+                                                        "accession": "KT374053",
+                                                        "clock_length": 1.7397900884564155e-06,
+                                                        "country": "South-Korea",
+                                                        "country_confidence": {
+                                                          "South-Korea": 1.0
+                                                        },
+                                                        "country_entropy": -1.000088900581841e-12,
+                                                        "date": "2015-06-12",
+                                                        "div": 0.0016634773567714642,
+                                                        "num_date": 2015.4490075290896,
+                                                        "num_date_confidence": [
+                                                          2015.4490075290896,
+                                                          2015.4490075290896
+                                                        ],
+                                                        "raw_date": "2015-06-13"
+                                                      },
+                                                      "branch_length": 1.74e-06,
+                                                      "clade": 72,
+                                                      "muts": [],
+                                                      "strain": "KT374053",
+                                                      "yvalue": 2
+                                                    },
+                                                    {
+                                                      "aa_muts": {},
+                                                      "attr": {
+                                                        "accession": "KX034096",
+                                                        "clock_length": 5.0933660130825405e-06,
+                                                        "country": "South-Korea",
+                                                        "country_confidence": {
+                                                          "South-Korea": 1.0
+                                                        },
+                                                        "country_entropy": -1.000088900581841e-12,
+                                                        "date": "2015-06-16",
+                                                        "div": 0.0016634773567714642,
+                                                        "num_date": 2015.4599589322381,
+                                                        "num_date_confidence": [
+                                                          2015.4599589322381,
+                                                          2015.4599589322381
+                                                        ],
+                                                        "raw_date": "2015-06-17"
+                                                      },
+                                                      "branch_length": 5.09e-06,
+                                                      "clade": 73,
+                                                      "muts": [],
+                                                      "strain": "KX034096",
+                                                      "yvalue": 1
+                                                    }
+                                                  ],
+                                                  "clade": 74,
+                                                  "muts": [],
+                                                  "strain": "NODE_0000049",
+                                                  "yvalue": 1.5
+                                                }
+                                              ],
+                                              "clade": 75,
+                                              "muts": [],
+                                              "strain": "NODE_0000048",
+                                              "yvalue": 2.25
+                                            }
+                                          ],
+                                          "clade": 76,
+                                          "muts": [
+                                            "T23041C"
+                                          ],
+                                          "strain": "NODE_0000002",
+                                          "yvalue": 3.75
+                                        }
+                                      ],
+                                      "clade": 77,
+                                      "muts": [],
+                                      "strain": "NODE_0000037",
+                                      "yvalue": 6.0
+                                    }
+                                  ],
+                                  "clade": 78,
+                                  "muts": [
+                                    "T23303C"
+                                  ],
+                                  "strain": "NODE_0000008",
+                                  "yvalue": 9.1875
+                                }
+                              ],
+                              "clade": 79,
+                              "muts": [
+                                "G20963A",
+                                "T24632C",
+                                "C24722T",
+                                "C25714T"
+                              ],
+                              "strain": "NODE_0000013",
+                              "yvalue": 12.09375
+                            }
+                          ],
+                          "clade": 80,
+                          "muts": [],
+                          "strain": "NODE_0000014",
+                          "yvalue": 14.046875
+                        }
+                      ],
+                      "clade": 81,
+                      "muts": [
+                        "T21713C",
+                        "C23804T",
+                        "T24296C",
+                        "C24383T",
+                        "C24863T",
+                        "C25580T",
+                        "A25768T",
+                        "C25788T",
+                        "T26109C",
+                        "G27067T",
+                        "C27355T",
+                        "C28212T",
+                        "T28219A",
+                        "C28290T"
+                      ],
+                      "strain": "NODE_0000015",
+                      "yvalue": 16.0234375
+                    }
+                  ],
+                  "clade": 82,
+                  "muts": [
+                    "T23504C",
+                    "C23570T",
+                    "C23648T",
+                    "C23756T"
+                  ],
+                  "strain": "NODE_0000018",
+                  "yvalue": 19.07421875
+                }
+              ],
+              "clade": 83,
+              "muts": [
+                "C25052T",
+                "C25597T",
+                "T25926C",
+                "C26167T",
+                "T27092C",
+                "C27229T",
+                "G28057A"
+              ],
+              "strain": "NODE_0000022",
+              "yvalue": 22.662109375
+            }
+          ],
+          "clade": 84,
+          "muts": [
+            "C20848A",
+            "C22790T"
+          ],
+          "strain": "NODE_0000027",
+          "yvalue": 25.8310546875
+        }
+      ],
+      "clade": 85,
+      "muts": [
+        "A21088T",
+        "T21736G",
+        "T22035C",
+        "T22357G",
+        "T23648C",
+        "T23756C",
+        "C24191T",
+        "C24251T",
+        "A24514G",
+        "G24704A",
+        "G24740C",
+        "T24927G",
+        "T25124C",
+        "T25247C",
+        "T25773C",
+        "T25781G",
+        "T25788C",
+        "T25905G",
+        "C25926T",
+        "G25969T",
+        "T26165A",
+        "C26344T",
+        "C26457G",
+        "C26716T",
+        "A26744G",
+        "T26806C",
+        "C26897T",
+        "C27092T",
+        "G27895A",
+        "A28054G",
+        "T28410C",
+        "T28605G",
+        "T28772C"
+      ],
+      "strain": "NODE_0000028",
+      "yvalue": 33.46240234375
+    }
+  ],
+  "clade": 86,
+  "muts": [],
+  "strain": "NODE_0000000",
+  "yvalue": 40.231201171875
+}
